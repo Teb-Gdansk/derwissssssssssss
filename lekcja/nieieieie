@@ -1,0 +1,18 @@
+html
+head
+body {
+    font-family: Helvetica
+}
+
+#pierwszy-blok-gorny,
+#drugi-blok-gorny {
+    background-color: rgb(146,  164,  112);
+    text-align: center;
+    width: 50%;
+    height: 170px;
+}
+
+#baner,
+#stopka {
+    background-color: rgb(100,61,49);
+}
